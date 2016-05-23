@@ -1,7 +1,7 @@
 # lab6
 LAB6 										F74046014 資訊108蘇俐文
 1.
-(1)錯誤,會繼承被繼承者的ctor,但不會是繼承者的ctor
+(1)錯誤,會繼承被繼承者的ctor,但不會是繼承者的ctor\n
 (2)錯誤,composition是大包小(has-a), inheritance是繼承(is-a)
 (3)錯誤,是has-a
 (4)正確
